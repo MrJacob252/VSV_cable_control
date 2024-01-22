@@ -112,9 +112,7 @@ class App(ctk.CTk):
             
         prediction.plot()
         
-        
-        
-        
+           
 if __name__ == "__main__":
     app = App("!!API_KEY_HERE!!")
     app.mainloop()
