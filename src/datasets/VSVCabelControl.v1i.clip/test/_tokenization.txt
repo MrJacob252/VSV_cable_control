@@ -1,2 +1,0 @@
-An example picture from the VSVCabelControl dataset depicting a Fail
-An example picture from the VSVCabelControl dataset depicting a Pass

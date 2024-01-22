@@ -17,6 +17,9 @@ Final solutions is a predict.py script that provides a GUI for user to appload a
 
 ## Requirements
 - [customtkinter](https://github.com/TomSchimansky/CustomTkinter) for creating the GUI
+  - ```
+    pip install customtkinter
+    ```
 - Roboflow for connecting to the roboflow API
   - ```
     pip install roboflow
